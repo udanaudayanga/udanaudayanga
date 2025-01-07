@@ -1,4 +1,4 @@
-## Hi there 👋
+[<img src="https://raw.githubusercontent.com/udanaudayanga/udanaudayanga/main/udanaudayanga.gif" alt="👋 Hi there! I'm Udana Udayanga | https://udana.lk" title="👋 Hi there! I'm Udana Udayanga | https://udana.lk"/>](https://udana.lk/)
 
 <!--
 **udanaudayanga/udanaudayanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
