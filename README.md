@@ -9,5 +9,9 @@ Interested in making life easier by creating plugins, extentions and tools.
 <br>
 
 🌍  I'm based in **Kadawatha, Sri Lanka**<br>
-<br>
+<br/>
 🌱   I’m currently learning **Vue/Nuxt and Blockchain**
+<br/>
+❓   Ask me about anything related to Web Development & Mobile Development
+<br/>
+🤝  I'm open to collaborate on interesting projects
