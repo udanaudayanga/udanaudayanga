@@ -18,3 +18,7 @@ Interested in making life easier by creating plugins, extentions and tools.
   <br>
   
 🤝  I'm open to collaborate on interesting projects
+
+## 🗨️ 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udanaudayanga@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94777367567?text=Hello%20Udana)
