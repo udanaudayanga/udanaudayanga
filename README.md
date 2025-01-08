@@ -126,7 +126,7 @@ Interested in making life easier by creating plugins, extentions and tools.
 <br>
 <br>
 
-![](https://github-readme-streak-stats-salesp07.vercel.app/?user=udanaudayanga&count_private=true&theme=react&border_radius=10)                ![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=udanaudayanga&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+![](https://github-readme-streak-stats-salesp07.vercel.app/?user=udanaudayanga&count_private=true&theme=react&border_radius=10)  ![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=udanaudayanga&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
