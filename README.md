@@ -7,6 +7,7 @@ I started my coding journey in 2004 when I started doing my degree in Computer S
 Interested in making life easier by creating plugins, extentions and tools.
 
 <br>
+
 🌍  I'm based in **Kadawatha, Sri Lanka**<br>
 <br>
 🌱   I’m currently learning **Vue/Nuxt and Blockchain**
