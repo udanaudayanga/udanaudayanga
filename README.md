@@ -123,6 +123,15 @@ Interested in making life easier by creating plugins, extentions and tools.
 ![Composer Badge](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+<br>
+<br>
 
+![](https://github-readme-streak-stats-salesp07.vercel.app/?user=udanaudayanga&count_private=true&theme=react&border_radius=10)                ![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=udanaudayanga&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/udanaudayanga/count.svg" />
+</div>
 
 
