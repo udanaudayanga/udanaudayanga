@@ -191,7 +191,7 @@ Interested in making life easier by creating plugins, extentions and tools.
 <br>
 
 
-<img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
+## Follow Me <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="30" height="30"  style="margin-bottom:-3px;"/>
 
 <img align="right" src="https://profile-counter.glitch.me/udanaudayanga/count.svg" />
 
